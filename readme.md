@@ -19,9 +19,11 @@ How could I use something that is easy to find to provide electricity?
 
 #SOME INTERESTING STORY ABOUT THIS
 One is that when maybe my grandfather was grown up,a bicycle which has light and riding to prove it energy,and when he wanted to try one,he found it difficult to ride.
-The other one is that my neighbour said he was climbing mountain while his phone suddenly stopped working.Then he had a quick wit and used a lemon and the iron on his belt.After that, he could make a little electricity and go away. 
+The other one is that my neighbour said he was climbing mountain while his phone suddenly stopped working.Then he had a quick wit and used a lemon and the piece of iron on his belt.After that, he could make a little electricity and go away. 
 
 #SOME WAYS TO SOLVE THIS PROBLEM
 First of all: find flint, or drill wood to eliminate fire, get fire, smash flint, get original stone axe, cut tree, take fiber, add wood stick to get stone hammer and other tools, cut tree or dig coal, build kiln, find clay, burn pottery, and make big bowl,it must be big enough; seal the kiln and burn carbon to get carbon rod; look for natural red copper in nature, make copper wire and copper plate, install enough water in the big urn, insert copper plate and carbon rod, that is, connect the negative electrode and positive electrode of the battery respectively, and finish it. In this way, the battery voltage is about 1.2V. If the internal resistance is large, the area of copper plate can be expanded, or multiple batteries can be connected in parallel.
 
 Do you want to know about me?[click here](aboutme.md)
+
+Some related investigations[click here](investigations.md)
