@@ -26,4 +26,6 @@ First of all: find flint, or drill wood to eliminate fire, get fire, smash flint
 
 Do you want to know about me?[click here](aboutme.md)
 
-Some related investigations[click here](investigations.md)
+Some related investigations [click here](investigations.md)
+
+The simple plan of this object [click here](plan.md)
