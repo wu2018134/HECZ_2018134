@@ -29,3 +29,5 @@ Do you want to know about me?[click here](aboutme.md)
 Some related investigations [click here](investigations.md)
 
 The simple plan of this object [click here](plan.md)
+
+The basic model for one of the objects[click here]( https://www.tinkercad.com/things/kDA2L44BWGN-lalala/edit)
